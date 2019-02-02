@@ -8,7 +8,7 @@ import org.opencv.core.Mat;
 
 import remoMovObjFromImg.MovImgSubtractor;
 import vidCapModule.*;
-
+/*changed on Feb 2,2019*/
 public class opencvTest {
 
 	public opencvTest() {
